@@ -1,0 +1,9 @@
+:root {
+	--background-dark: #120d12;
+}
+
+body {
+	background-color: var(--background-dark);
+	font-family: "Monserrat", sans-serif;
+	margin: 0;
+}

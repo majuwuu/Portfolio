@@ -1,0 +1,44 @@
+:root {
+	--contact-title-color: #e7c0bc;
+}
+
+.contactPage {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-sizing: border-box;
+	border: solid 1px #b9acac3f;
+	height: 30rem;
+	width: 100%;
+}
+
+.titleContactPage {
+	font-size: 2rem;
+	color: var(--contact-title-color);
+}
+
+.contactPageContainer {
+	display: flex;
+	justify-content: center;
+	gap: 6rem;
+	width: 100%;
+}
+
+.contact-card a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	width: 12rem;
+	height: 12rem;
+	border: solid 1px #b9acac3f;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+.contact-sub {
+	font-size: 1rem;
+	color: var(--icon-subtitle);
+	font-family: "Montserrat", sans-serif;
+}

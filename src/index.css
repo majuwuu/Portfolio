@@ -1,0 +1,17 @@
+:root {
+	/* Background colors */
+	--background-dark: #120d12;
+	--backgound-light: #dfc3c0;
+
+	/* font colors */
+	--font-title-dark: #140f14;
+	--font-paragraph-dark: #120d12;
+}
+
+body {
+	margin: 0;
+	font-family: "Monserrat", sans-serif;
+	display: flex;
+	place-items: center;
+	box-sizing: border-box;
+}

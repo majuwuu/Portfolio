@@ -1,0 +1,25 @@
+{
+	"first": {
+		"company": "TACH/ Carga al Toque",
+		"date": "Front-end Developer / November 2021 - Augoust 2022",
+		"description": "A virtual wallet oriented to merchants",
+		"role": "Development of new UI features in the Backoffice, and making new tags for Google Tag Manager.",
+		"tecnologies": "Tecnologies: HTML, CSS, JavaScript, React, Redux, Chakra UI, Jira, Git, GitHub, Google Tag Manager, Google Analytics."
+	},
+
+	"second": {
+		"company": "Enciende Tu Camino",
+		"date": "Front-end Developer / May 2021 - Feb 2022",
+		"description": "Online sales (e-commerce) of natural medicine products",
+		"role": "Development of new UI features in the Backoffice, and making new tags for Google Tag Manager",
+		"tecnologies": "Tecnologies: HTML, CSS, JavaScript, React, Redux, Chakra UI, Jira, Git, GitHub, Google Tag Manager, Google Analytics."
+	},
+
+	"third": {
+		"company": "Tennis Shop",
+		"date": "Front-end Developer / March 2023 - April 2024",
+		"description": "Online sales (e-commerce) of sports equipament.",
+		"role": "Development of new UI features in the Backoffice, and making new tags for Google Tag Manager",
+		"tecnologies": "Tecnologies: HTML, CSS, JavaScript, React, Redux, Chakra UI, Jira, Git, GitHub, Google Tag Manager, Google Analytics."
+	}
+}

@@ -1,0 +1,66 @@
+:root {
+	--tec-title-color: #e7c0bc;
+	--icon-subtitle: #aca7a785;
+	--slider-buttons: #b57c92;
+}
+
+#tecnologies {
+	scroll-margin-top: 100px;
+}
+
+.tecnologiesPage {
+	display: flex;
+	position: relative;
+	justify-content: center;
+	box-sizing: border-box;
+	height: 30rem;
+	max-width: 100%;
+	border: solid 1px #b9acac3f;
+	margin: 2rem 0;
+	z-index: 1;
+	scroll-margin-top: 180px;
+}
+
+.TecnologieTile {
+	font-size: 2rem;
+	position: absolute;
+	z-index: 2;
+	color: var(--tec-title-color);
+}
+
+.swiper {
+	width: 100%;
+}
+
+.slideContent {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.cardSlider {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	width: 22rem;
+	height: 12rem;
+	border: solid 1px #b9acac3f;
+	border-radius: 6px;
+	font-size: 1.2rem;
+}
+
+.iconSubtitle {
+	color: var(--icon-subtitle);
+	font-family: "Montserrat", sans-serif;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+	color: var(--slider-buttons);
+}
+
+.swiper-pagination-bullet-active {
+	background: var(--slider-buttons);
+}

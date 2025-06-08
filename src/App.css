@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+	width: 0.7rem; /* Para scroll vertical */
+}
+
+/* Fondo de la scrollbar */
+::-webkit-scrollbar-track {
+	background: #251d25; /* Color de fondo */
+	border-radius: 10px;
+}
+
+/* Barra deslizante */
+::-webkit-scrollbar-thumb {
+	background: #140f14; /* Color del scroll */
+	border-radius: 10px;
+	border: 1px solid #8d85857e; /* Espacio alrededor */
+}
+
+html {
+	scroll-behavior: smooth;
+}
