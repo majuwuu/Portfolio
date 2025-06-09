@@ -57,14 +57,14 @@ export const PrincipalCards = () => {
 					<img
 						ref={kitty1Ref}
 						className="kitty1"
-						src="./img/kitty.png"
+						src="/img/kitty1.png"
 						alt="gato tricolor sonriendo"
 						style={{ opacity: "1" }}
 					/>
 					<img
 						ref={kitty2Ref}
 						className="kitty2"
-						src="./img/kitty2.png"
+						src="/img/kitty2.png"
 						alt="gato tricolor feliz"
 						style={{ opacity: "0" }}
 					/>
