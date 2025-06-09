@@ -16,6 +16,7 @@
 	margin-top: 3rem;
 	display: flex;
 	scroll-margin-top: 80px;
+	justify-content: center;
 }
 
 .experience-div {
@@ -35,9 +36,10 @@
 
 .timeline {
 	display: flex;
-	width: 50%;
+	width: 28%;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 }
 
 @keyframes pulse {
